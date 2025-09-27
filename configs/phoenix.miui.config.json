@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "MIUI",
       "repo": "https://github.com/DawnT112/crux-marisa.git",
-      "branch": "display",
+      "branch": "test",
       "device": "crux",
-      "defconfig": "crux_defconfig"
+      "defconfig": "raphael_defconfig"
     },
     "enableCcache": true,
     "enableKernelSU": false,
