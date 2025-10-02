@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "MIUI",
       "repo": "https://github.com/DawnT112/crux-marisa.git",
-      "branch": "binder",
+      "branch": "charger2",
       "device": "crux",
       "defconfig": "crux_defconfig"
     },
