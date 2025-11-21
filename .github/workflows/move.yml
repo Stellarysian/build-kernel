@@ -7,7 +7,7 @@ jobs:
   download:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v6
         with:
           repository: vc-teahouse/Kernel-Builder
           run-id: '4'
