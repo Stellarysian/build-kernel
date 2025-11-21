@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "VoltageOS",
       "repo": "https://github.com/VoltageOS-Devices/kernel_xiaomi_raphael.git",
-      "branch": "charge2",
+      "branch": "16",
       "device": "16",
       "defconfig": "raphael_defconfig"
     },
