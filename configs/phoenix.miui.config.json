@@ -1,8 +1,8 @@
 [
   {
     "kernelSource": {
-      "name": "VoltageOS",
-      "repo": "https://github.com/VoltageOS-Devices/kernel_xiaomi_raphael.git",
+      "name": "Infinity-X",
+      "repo": "https://github.com/Infinity-X-Devices/kernel_xiaomi_raphael-new.git",
       "branch": "16",
       "device": "16",
       "defconfig": "raphael_defconfig"
